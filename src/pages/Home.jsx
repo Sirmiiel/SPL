@@ -1,6 +1,6 @@
 import { useRef, useEffect, useState } from "react";
-import CTAButton from "../components/CTAButton";
-import TrustBadges from "../components/TrustBadges";
+import CTAButton from "../components/CTAButton.jsx";
+import TrustBadges from "../components/TrustBadges.jsx";
 import Silk from "../components/Silk.jsx";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";

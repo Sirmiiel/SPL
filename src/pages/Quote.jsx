@@ -1,8 +1,8 @@
 import { useRef, useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
 import { useTranslation } from "react-i18next";
-import CTAButton from "../components/CTAButton";
-import TrustBadges from "../components/TrustBadges";
+import CTAButton from "../components/CTAButton.jsx";
+import TrustBadges from "../components/TrustBadges.jsx";
 import Silk from "../components/Silk.jsx";
 
 export default function Quote() {
