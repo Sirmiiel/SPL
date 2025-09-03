@@ -2,11 +2,11 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import WhatsAppButton from "./components/WhatsAppButton";
-import Home from "./Pages/Home";
-import About from "./Pages/About";
-import Services from "./Pages/Services";
-import Contact from "./Pages/Contact";
-import Quote from "./Pages/Quote";
+import Home from "./views/Home";
+import About from "./views/About";
+import Services from "./views/Services";
+import Contact from "./views/Contact";
+import Quote from "./views/Quote";
 
 export default function App() {
   return (
