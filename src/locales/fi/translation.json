@@ -1,0 +1,80 @@
+{
+  "appName": "Siivouspalvelu Lupaus",
+  "nav": {
+    "home": "Etusivu",
+    "about": "Tietoa",
+    "services": "Palvelut",
+    "contact": "Yhteystiedot",
+    "quote": "Tarjous",
+    "fi": "FI",
+    "en": "EN"
+  },
+  "home": {
+    "title": "Ammattimainen ravintola- ja yrityssiivous Kuopiossa",
+    "subtitle": "Luotettavat, ympäristöystävälliset siivouspalvelut yrityksille.",
+    "intro": "Tarjoamme täsmällistä ja laadukasta siivousta ravintoloille ja toimistoille Kuopiossa. Olemme luvanvarainen ja vakuutettu toimija, joka panostaa kestävyyteen.",
+    "ctaQuote": "Pyydä ilmainen tarjous",
+    "ctaBook": "Varaa nyt",
+    "ourServices": "Palvelumme",
+    "trustStatement": "Yli 200 yrityksen ja kodin luottama"
+  },
+  "services": {
+    "title": "Palvelumme",
+    "pricingHint": "Hinnat alkaen 35 €/h. Pyydä räätälöity tarjous.",
+    "items": {
+      "restaurant": {
+        "title": "Ravintolasiivous",
+        "description": "Perusteellinen siivous keittiöihin, ruokasaleihin ja ilmanvaihtoon."
+      },
+      "office": {
+        "title": "Toimistosiivous",
+        "description": "Päivittäinen tai viikoittainen siivous ammattimaisen työympäristön ylläpitoon."
+      },
+      "deep": {
+        "title": "Tehosiivous",
+        "description": "Perusteellinen lattiasta kattoon -siivous säännölliseen ylläpitoon."
+      },
+      "window": {
+        "title": "Ikkunapesu",
+        "description": "Kirkkaat ikkunat ammattimaiseen ilmeeseen."
+      },
+      "special": {
+        "title": "Erikoiskohteiden siivous",
+        "description": "Räätälöidyt ratkaisut liiketiloihin ja erityistarpeisiin."
+      }
+    }
+  },
+  "about": {
+    "title": "Tietoa meistä",
+    "body": "Aloitimme lupauksella nostaa yrityssiivouksen tasoa Kuopiossa. Tiimimme yhdistää kokemuksen, läpinäkyvyyden ja ympäristön kunnioittamisen.",
+    "teamPlaceholder": "Tiimin kuva"
+  },
+  "contact": {
+    "title": "Ota yhteyttä",
+    "name": "Nimi",
+    "email": "Sähköposti",
+    "service": "Palvelu",
+    "message": "Viesti",
+    "sent": "Viesti lähetetty!",
+    "send": "Lähetä viesti"
+  },
+  "footer": {
+    "copyright": "© 2024 Kuopio Cleaning. Kaikki oikeudet pidätetään."
+  },
+  "trust": {
+    "licensed": "Luvanvarainen",
+    "eco": "Ympäristöystävälliset tuotteet",
+    "punctual": "Täsmällinen",
+    "insured": "Vakuutettu"
+  },
+  "quote": {
+    "title": "Pyydä tarjous",
+    "service": "Palvelu",
+    "squareMeters": "Neliömetrit",
+    "frequency": "Tiheys",
+    "freq": { "once": "Kertaluonteinen", "weekly": "Viikoittain", "monthly": "Kuukausittain" },
+    "request": "Pyydä tarjous"
+  }
+}
+
+

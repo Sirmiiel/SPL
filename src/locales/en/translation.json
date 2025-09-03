@@ -1,0 +1,89 @@
+{
+  "appName": "Siivouspalvelu Lupaus",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "quote": "Quote",
+    "fi": "FI",
+    "en": "EN"
+  },
+  "home": {
+    "title": "Professional Restaurant & Commercial Cleaning in Kuopio",
+    "subtitle": "Reliable, eco-friendly cleaning services tailored for businesses.",
+    "intro": "We deliver punctual, high-quality cleaning for restaurants and offices in Kuopio. Licensed, insured, and committed to sustainability.",
+    "ctaQuote": "Get a Free Quote",
+    "ctaBook": "Book Now",
+    "ourServices": "Our Services",
+    "trustStatement": "Trusted by 200+ businesses & homes",
+    "introTitle": "Siivouspalvelu Lupaus",
+    "viewAllServices": "View All Services"
+  },
+  "services": {
+    "title": "Our Services",
+    "pricingHint": "Pricing: starting from €35/hour. Contact us for a custom quote.",
+    "items": {
+      "restaurant": {
+        "title": "Restaurant Cleaning",
+        "description": "Deep cleaning for kitchens, dining areas, and exhaust systems."
+      },
+      "office": {
+        "title": "Office Cleaning",
+        "description": "Daily or weekly cleaning to maintain a professional workspace."
+      },
+      "deep": {
+        "title": "Deep Cleaning",
+        "description": "Thorough floor-to-ceiling cleaning for periodic maintenance."
+      },
+      "window": {
+        "title": "Window Cleaning",
+        "description": "Crystal-clear windows for a professional appearance."
+      },
+      "special": {
+        "title": "Specialized Commercial Cleaning",
+        "description": "Tailored solutions for commercial facilities and unique needs."
+      }
+    },
+    "getQuote": "Get Quote",
+    "needCustom": "Need a Custom Solution?",
+    "customDescription": "We specialize in creating tailored cleaning solutions for unique commercial spaces.",
+    "contactUs": "Contact Us"
+  },
+  "about": {
+    "title": "About Us",
+    "body": "We started with a promise to raise the standard of commercial cleaning in Kuopio. Our team combines experience, transparency, and respect for the environment.",
+    "teamPlaceholder": "Team photo"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "service": "Service",
+    "message": "Message",
+    "sent": "Message sent!",
+    "send": "Send Message"
+  },
+  "footer": {
+    "copyright": "© 2024 Kuopio Cleaning. All rights reserved."
+  },
+  "trust": {
+    "licensed": "Licensed",
+    "eco": "Eco-Friendly Products",
+    "punctual": "Punctual",
+    "insured": "Insured"
+  },
+  "quote": {
+    "title": "Request a Quote",
+    "service": "Service",
+    "squareMeters": "Square meters",
+    "frequency": "Frequency",
+    "freq": { "once": "One-time", "weekly": "Weekly", "monthly": "Monthly" },
+    "request": "Request Quote"
+  },
+  "common": {
+    "learnMore": "Learn More"
+  }
+}
+
+
